@@ -3,3 +3,6 @@ Fremont.csv
 
 # .ipynb checkpoints
 .ipynb_checkpoints/
+
+# __pycache__ from jupyter_notebook package
+jupyter_workflow/__pycache__/
